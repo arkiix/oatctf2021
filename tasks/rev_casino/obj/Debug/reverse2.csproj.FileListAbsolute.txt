@@ -1,0 +1,10 @@
+D:\Projects\reverse\reverse2\reverse2\bin\Debug\reverse2.exe.config
+D:\Projects\reverse\reverse2\reverse2\bin\Debug\reverse2.exe
+D:\Projects\reverse\reverse2\reverse2\bin\Debug\reverse2.pdb
+D:\Projects\reverse\reverse2\reverse2\obj\Debug\reverse2.csprojAssemblyReference.cache
+D:\Projects\reverse\reverse2\reverse2\obj\Debug\reverse2.Properties.Resources.resources
+D:\Projects\reverse\reverse2\reverse2\obj\Debug\reverse2.csproj.GenerateResource.cache
+D:\Projects\reverse\reverse2\reverse2\obj\Debug\reverse2.csproj.CoreCompileInputs.cache
+D:\Projects\reverse\reverse2\reverse2\obj\Debug\reverse2.exe
+D:\Projects\reverse\reverse2\reverse2\obj\Debug\reverse2.pdb
+D:\Projects\reverse\reverse2\reverse2\obj\Debug\reverse2.Casino.resources

@@ -1,0 +1,10 @@
+D:\Projects\task2\reverse1\reverse1\bin\Debug\reverse1.exe.config
+D:\Projects\task2\reverse1\reverse1\bin\Debug\reverse1.exe
+D:\Projects\task2\reverse1\reverse1\bin\Debug\reverse1.pdb
+D:\Projects\task2\reverse1\reverse1\obj\Debug\reverse1.csprojAssemblyReference.cache
+D:\Projects\task2\reverse1\reverse1\obj\Debug\reverse1.Form1.resources
+D:\Projects\task2\reverse1\reverse1\obj\Debug\reverse1.Properties.Resources.resources
+D:\Projects\task2\reverse1\reverse1\obj\Debug\reverse1.csproj.GenerateResource.cache
+D:\Projects\task2\reverse1\reverse1\obj\Debug\reverse1.csproj.CoreCompileInputs.cache
+D:\Projects\task2\reverse1\reverse1\obj\Debug\reverse1.exe
+D:\Projects\task2\reverse1\reverse1\obj\Debug\reverse1.pdb
